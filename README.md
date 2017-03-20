@@ -1,2 +1,1 @@
-###Gabriel Krivian
-##Individual Project
+*Gabriel Krivian Individual Project*
