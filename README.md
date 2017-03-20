@@ -1,3 +1,4 @@
-#**Gabriel Krivian**#
+**Gabriel Krivian**
 
-Individual Project
+-Stock Market Display
+-Individual Project
