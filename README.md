@@ -4,4 +4,4 @@
 
 -Individual Project
 
-I'm So :fu:
+I'm So :ok_hand:
