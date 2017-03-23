@@ -1,7 +1,11 @@
 **Gabriel Krivian**
 
--Stock Market Display
+-Stock Market Analyzer
 
 -Individual Project
 
-I'm So :ok_hand:
+-Analyzes a specific stock by typing the ticker in
+
+-Pulls important indicators, displays them, then states whether it would be a good long or short term investment
+
+-AAPL ticker works best for demonstration
